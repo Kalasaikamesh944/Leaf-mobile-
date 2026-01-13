@@ -513,3 +513,200 @@ Low-level driver example for mobile hardware
 
 
 https://github.com/Kalasaikamesh944/Leaf-mobile-/blob/main/file_00000000d5b871fa9432c688c7317e34.png
+
+
+
+---
+
+📱 Mobile Hardware Manufacturers in India (Components Only)
+
+🔹 Mobile Assembly & PCB / EMS (Core Hardware)
+
+These factories assemble motherboards (PCBA), ICs mounting, soldering, testing.
+
+1. Foxconn India – Tamil Nadu, Karnataka
+
+Mobile PCB assembly
+
+Camera modules, connectors, flex cables
+
+
+
+2. Tata Electronics – Karnataka, Tamil Nadu
+
+iPhone hardware manufacturing
+
+Precision enclosures, PCB work
+
+
+
+3. Dixon Technologies – Noida, Tirupati
+
+Mobile motherboard assembly
+
+Charging boards, testing lines
+
+
+
+4. VVDN Technologies – Haryana, UP
+
+Mobile PCB, RF boards
+
+Antenna & IoT hardware
+
+
+
+5. Syrma SGS – Tamil Nadu
+
+Mobile electronics, PCBAs
+
+Power & control boards
+
+
+
+6. Flex (Flextronics) – Chennai
+
+Mobile internal hardware
+
+Camera & display sub-assemblies
+
+
+
+
+
+---
+
+🔹 Mobile Display (Screen Hardware)
+
+7. Tata Group – Display Assembly Units (upcoming)
+
+OLED & LCD display module assembly
+
+
+
+8. Optiemus Electronics – Noida
+
+Display bonding
+
+Touch panel assembly
+
+
+
+
+
+---
+
+🔹 Battery & Power Hardware
+
+9. Exide Industries – India
+
+Lithium battery packs (mobile grade)
+
+
+
+10. Amara Raja – Andhra Pradesh
+
+
+
+Mobile & small electronics batteries
+
+
+11. Sunwoda India – Haryana
+
+
+
+Li-ion mobile battery packs
+
+
+
+---
+
+🔹 Camera & Sensor Hardware
+
+12. Sunny Opotech (India unit)
+
+
+
+Camera modules
+
+
+13. LG Innotek India (support units)
+
+
+
+Camera & sensor components
+
+
+
+---
+
+🔹 Connectors, Cables & Small Parts
+
+14. Molex India – Bengaluru
+
+
+
+Mobile connectors, USB, flex
+
+
+15. TE Connectivity India
+
+
+
+Charging ports, RF connectors
+
+
+16. Jabil India
+
+
+
+Micro-hardware, PCB components
+
+
+
+---
+
+🔹 Mobile Semiconductor / Chip Related (India-side)
+
+⚠️ Chips are mostly designed or packaged, not fully fabricated yet.
+
+17. Tata Semiconductor (OSAT) – Assam, Gujarat
+
+
+
+Chip packaging & testing
+
+
+18. Sahasra Electronics – Rajasthan
+
+
+
+IC assembly & memory modules
+
+
+
+---
+
+📍 Main Mobile Hardware Manufacturing Zones
+
+Noida / Greater Noida (UP) – PCB & phone hardware
+
+Sriperumbudur / Chennai (TN) – EMS & assembly
+
+Bengaluru (KA) – Precision electronics
+
+Tirupati (AP) – Mobile component clusters
+
+
+
+---
+
+🧠 If your goal is:
+
+Mobile motherboard creation → Foxconn, Dixon, VVDN
+
+Battery manufacturing → Amara Raja, Exide
+
+Display hardware → Optiemus, Tata units
+
+Full phone hardware pipeline → Foxconn + Tata + Dixon
