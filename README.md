@@ -509,3 +509,7 @@ How to build a custom ROM
 How mobile motherboard + drivers connect
 
 Low-level driver example for mobile hardware
+
+
+
+https://github.com/Kalasaikamesh944/Leaf-mobile-/blob/main/file_00000000d5b871fa9432c688c7317e34.png
